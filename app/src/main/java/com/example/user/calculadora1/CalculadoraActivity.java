@@ -63,7 +63,7 @@ public class CalculadoraActivity extends ActionBarActivity {
         btnTimes = (Button) findViewById(R.id.btnTimes);
         btnDivision = (Button) findViewById(R.id.btnDivision);
         txtResultado = (EditText) findViewById(R.id.editText);
-        txtResultado.setTextColor(0xCCCC0000);
+        txtResultado.setTextColor(0xCCCD0000);
         txtResultado.setEnabled(false);
         oper1="";
         oper2="";
